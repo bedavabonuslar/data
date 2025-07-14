@@ -34,5 +34,14 @@
     "bonuses": [],
     "order": 3,
     "image": ""
+  },
+  "bahisbudur": {
+    "name": "BahisBudur",
+    "description": "Güvenilir bahis platformu",
+    "url": "https://richwinsoap.com/index.php?site=bahisbudur",
+    "status": "active",
+    "bonuses": [],
+    "order": 4,
+    "image": ""
   }
 }
