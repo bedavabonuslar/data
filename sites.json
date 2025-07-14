@@ -70,5 +70,14 @@
     "bonuses": [],
     "order": 7,
     "image": ""
+  },
+  "makro": {
+    "name": "Makro",
+    "description": "Profesyonel bahis sitesi",
+    "url": "https://richwinsoap.com/index.php?site=makro",
+    "status": "active",
+    "bonuses": [],
+    "order": 8,
+    "image": ""
   }
 }
