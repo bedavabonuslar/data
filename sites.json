@@ -333,8 +333,8 @@
     ],
     "order": 2,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-purple-500 to-pink-600",
+    "icon": "fas fa-crown"
   },
   "gora": {
     "name": "Gora",
