@@ -133,8 +133,8 @@
     "bonuses": [],
     "order": 3,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-orange-500 to-red-600",
+    "icon": "fas fa-fire"
   },
   "bahisbudur": {
     "name": "BahisBudur",
