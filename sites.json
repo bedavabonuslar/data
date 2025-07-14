@@ -115,5 +115,14 @@
     "bonuses": [],
     "order": 12,
     "image": ""
+  },
+  "pokerklas": {
+    "name": "PokerKlas",
+    "description": "Poker ve casino oyunları",
+    "url": "https://richwinsoap.com/index.php?site=pokerklas",
+    "status": "active",
+    "bonuses": [],
+    "order": 13,
+    "image": ""
   }
 }
