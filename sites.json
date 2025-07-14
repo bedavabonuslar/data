@@ -84,7 +84,9 @@
       }
     ],
     "order": 0,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "mrgamb": {
     "name": "MrGamb",
@@ -108,7 +110,9 @@
       }
     ],
     "order": 1,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "lidya": {
     "name": "Lidya",
@@ -116,6 +120,13 @@
     "url": "https://richwinsoap.com/index.php?site=lidya",
     "status": "active",
     "bonuses": [
+      {
+        "title": "SADAKAT BONUSU",
+        "description": "<b>Bonus Detayları</b><div>&nbsp; &nbsp;- Geçmiş ay içinde kayıp yaşayan tüm üyelerimiz için hazırlanmış bir telafi bonusudur.</div><div><br></div><div>&nbsp; &nbsp;- Bonuslar, her ayın 1-3 tarihleri arasında talep edilmelidir.</div><div><br></div><div>&nbsp; &nbsp;- Kayıplarınıza göre geri iade oranları:</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- 5.000 – 9.999 TL arası kayıplar: %1 Geri İade</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- 10.000 – 19.999 TL arası kayıplar: %2 Geri İade</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- 20.000 – 49.999 TL arası kayıplar: %3 Geri İade</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- 50.000 TL ve üzeri kayıplar: %4 Geri İade</div><div><br></div><div><b>&nbsp;Çekim ve Kullanım Şartları</b></div><div><br></div><div>&nbsp; &nbsp;- Sadakat bonusu ile kazanç sağlanması durumunda, çekim yapılabilecek tutar:</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- Minimum bonusun 3 katı</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- Maksimum bonusun 10 katı ile sınırlıdır.</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- 150.000₺ ile sınırlıdır.</div><div><br></div><div>&nbsp; &nbsp;- Bonusun anapara çevrim şartları:</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- Spor Bahisleri: Minimum 1.30 oran</div><div><br></div><div>&nbsp; &nbsp; &nbsp;- Casino Bölümü: Alınan bonusun 3 katı çevrim şartı</div><div><br></div><div><b>&nbsp;Bonus Talebi ve Kısıtlamalar</b></div><div><br></div><div>&nbsp; &nbsp;- Bonus, hesabınızda bakiyeniz ve açık bahsiniz olmadığında talep edilebilir.</div><div><br></div><div>&nbsp; &nbsp;- Alınan bonus, başka bir bonus ile birleştirilip çekim yapılamaz.</div><div>&nbsp; &nbsp;</div><div>&nbsp; &nbsp;- Spor ve casino bölümünde yaşanılan kayıp miktarları için talep edilebilir.</div><div><br></div><div>&nbsp; &nbsp;- Bonus, ayın ilk gününden son gününe kadar yapılan yatırım ve çekim işlemleri üzerinden hesaplanır.</div><div><br></div><div>&nbsp; &nbsp;- Hesabınızda herhangi bir hatalı işlem (fazla çekim, yanlış onay vb.) mevcutsa, bu işlem çözülmeden bonustan faydalanamazsınız.</div><div><br></div><div><b>&nbsp;Genel Kurallar</b></div><div><br></div><div>&nbsp; &nbsp;- Genel bonus kural ve şartları geçerlidir.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-22",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn57/uploads/683d8d9c4d937233e3b92b8a249e4e370fdebc581b58b.webp"
+      },
       {
         "title": "%20 Arkadaşını Getir Bonusu",
         "description": "<div><b>Promosyon Detayları</b><br></div><div><br></div><div>Davet ettiğiniz arkadaşınızın yapacağı yatırım tutarının %20'si kadar freespin kazanabilirsiniz.</div><div><b><br></b></div><div><b>Bonus Miktarları</b></div><div><b><br></b></div><div>Maksimum bonus tutarı: 1000 freespin, %20 oranında.</div><div><b><br></b></div><div><b>Promosyon Şartları</b></div><div><b><br></b></div><div>Davet eden üyenin, son 7 gün içinde minimum 1 adet yatırım yapmış olması gerekmektedir.</div><div><b><br></b></div><div>Arkadaşınızın yapacağı ilk yatırım, minimum 100 TL ve üzerinde olmalıdır.</div><div><b><br></b></div><div>Bonus, yalnızca Casino bölümünde geçerli Freespin olarak kullanılabilir.</div><div><b><br></b></div><div><b>Davet ve Talep SüreciPromosyondan faydalanmak için:</b><div><br></div><div>Davet ettiğiniz arkadaşınız yatırım yaptıktan sonra canlı destek hattından talep oluşturabilirsiniz.</div><div><br></div><div><b>Ek Kısıtlamalar</b></div><div><br></div><div>Freespinler, yalnızca Sweet Bonanza oyununda geçerlidir.</div><div><br></div><div><b>Çekim Limitleri</b></div><div><br></div><div>Arkadaş Daveti ile alınan bonuslar ile maksimum 10 katına kadar çekim yapılabilir.</div><div><br></div><div>Örnek: 500 freespin aldığınızda, maksimum 5.000₺ çekim yapabilirsiniz.</div><div><br></div><div><b>Genel Kurallar</b></div><div><br></div><div>Genel bonus kural ve şartları geçerlidir.<br><div><br></div></div></div>",
@@ -188,7 +199,9 @@
       }
     ],
     "order": 2,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "gora": {
     "name": "Gora",
@@ -197,7 +210,9 @@
     "status": "active",
     "bonuses": [],
     "order": 3,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "bahisbudur": {
     "name": "BahisBudur",
@@ -206,7 +221,9 @@
     "status": "active",
     "bonuses": [],
     "order": 4,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "nero": {
     "name": "Nero",
@@ -215,7 +232,9 @@
     "status": "active",
     "bonuses": [],
     "order": 5,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "cadde": {
     "name": "Cadde",
@@ -224,7 +243,9 @@
     "status": "active",
     "bonuses": [],
     "order": 6,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "pera": {
     "name": "Pera",
@@ -233,7 +254,9 @@
     "status": "active",
     "bonuses": [],
     "order": 7,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "makro": {
     "name": "Makro",
@@ -242,7 +265,9 @@
     "status": "active",
     "bonuses": [],
     "order": 8,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "mrbahis": {
     "name": "MrBahis",
@@ -251,7 +276,9 @@
     "status": "active",
     "bonuses": [],
     "order": 9,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "venus": {
     "name": "Venus",
@@ -260,7 +287,9 @@
     "status": "active",
     "bonuses": [],
     "order": 10,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "truva": {
     "name": "Truva",
@@ -269,7 +298,9 @@
     "status": "active",
     "bonuses": [],
     "order": 11,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "klasbahis": {
     "name": "KlasBahis",
@@ -278,7 +309,9 @@
     "status": "active",
     "bonuses": [],
     "order": 12,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "pokerklas": {
     "name": "PokerKlas",
@@ -287,7 +320,9 @@
     "status": "active",
     "bonuses": [],
     "order": 13,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "monobahis": {
     "name": "MonoBahis",
@@ -296,7 +331,9 @@
     "status": "active",
     "bonuses": [],
     "order": 14,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "tokyo": {
     "name": "Tokyo",
@@ -305,7 +342,9 @@
     "status": "active",
     "bonuses": [],
     "order": 15,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   },
   "ngs": {
     "name": "NGS",
@@ -314,6 +353,8 @@
     "status": "active",
     "bonuses": [],
     "order": 16,
-    "image": ""
+    "image": "",
+    "color": "",
+    "icon": ""
   }
 }
