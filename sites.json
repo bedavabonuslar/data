@@ -95,6 +95,13 @@
     "status": "active",
     "bonuses": [
       {
+        "title": "AYLIK BONUS!",
+        "description": "<b>MrGamb dünyasında her ay seni yepyeni bir sürpriz bekliyor!</b><div><b><br></b><div>Seviye sistemimizle oyun keyfini artırırken, aylık sürpriz ödüllerle kazancını daha da büyütme zamanı geldi. Aktifliğin, çevirim oranın ve oyun performansına göre belirlenen bu özel ödüller her ay seni ödüllendirmek için hazır!</div><div><br></div><div><b>Aylık Ödül Detayları:</b></div><div><br></div><div>Her çevirimde seviyen otomatik olarak ilerler, böylece daha yüksek ödüllere ulaşabilirsin.</div><div>Almış olduğun sürpriz ödülün minimum ve maksimum 5 katı kadar çekim işlemi gerçekleştirebilirsin.</div><div>Ödüller tamamen aktiflik, çevirim oranı ve oyun performansına bağlıdır.</div><div>Ödül talebi her ayın 2’si, 00:01 ile 23:59 saatleri arasında yapılabilir. Bu süre dışında kesinlikle talep edilemez.</div><div>Şimdi Harekete Geç!</div><div>Çevirim yap, seviyeni yükselt, aylık sürpriz ödüllere kazancını katla! Unutma, seviyen yükseldikçe daha büyük ödüller seni bekliyor!</div></div>",
+        "type": "Casino",
+        "endDate": "2025-12-28",
+        "image": "https://vendor-provider.fra1.cdn.digitaloceanspaces.com/ebetlab/gXmqkthvbBjbc5gA1/promotions/UR6LulkRx0zDjdbCp3VIj8YDLKvP4H3AvyH5hVrc.png"
+      },
+      {
         "title": "HAFTALIK BONUS!",
         "description": "<b>MrGamb dünyasında her hafta yeni bir sürpriz seni bekliyor!</b><div><b><br></b><div>Seviye sistemimizle oyun keyfini katlarken, haftalık sürpriz ödüllerle kazancını daha da artırma zamanı geldi. Aktifliğin, çevirim oranın ve oyun performansına göre belirlenen bu özel ödüller her hafta seni ödüllendirmek için hazır!</div><div><br></div><div><b>Haftalık Ödül Detayları:</b></div><div><br></div><div>Her çevirimde seviyen otomatik olarak ilerler, böylece daha yüksek ödüllere ulaşabilirsin.</div><div>Almış olduğun sürpriz ödülün minimum ve maksimum 5 katı kadar çekim işlemi gerçekleştirebilirsin.</div><div>Ödüller tamamen aktiflik, çevirim oranı ve oyun performansına bağlıdır.</div><div>Ödül talebi her pazartesi, 00:01 ile 23:59 saatleri arasında yapılabilir. Bu süre dışında kesinlikle talep edilemez.</div><div><br></div><div><b>Şimdi Harekete Geç!</b></div><div><b><br></b></div><div>Çevirim yap, seviyeni yükselt, haftalık sürpriz ödüllerle kazancını katla! Unutma, seviyen yükseldikçe daha büyük ödüller seni bekliyor!</div></div>",
         "type": "Casino",
