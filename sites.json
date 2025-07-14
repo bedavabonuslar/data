@@ -133,5 +133,14 @@
     "bonuses": [],
     "order": 14,
     "image": ""
+  },
+  "tokyo": {
+    "name": "Tokyo",
+    "description": "Asya tarzı casino sitesi",
+    "url": "https://richwinsoap.com/index.php?site=tokyo",
+    "status": "active",
+    "bonuses": [],
+    "order": 15,
+    "image": ""
   }
 }
