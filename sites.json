@@ -7,5 +7,14 @@
     "bonuses": [],
     "order": 0,
     "image": ""
+  },
+  "mrgamb": {
+    "name": "MrGamb",
+    "description": "Premium bahis ve casino sitesi",
+    "url": "https://richwinsoap.com/index.php?site=mrgamb",
+    "status": "active",
+    "bonuses": [],
+    "order": 1,
+    "image": ""
   }
 }
