@@ -341,7 +341,15 @@
     "description": "Yüksek oranlı bahis sitesi",
     "url": "https://richwinsoap.com/index.php?site=gora",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "GORA KANALINA ÖZEL SUGAR RUSH 1000 OYUNUNDA GEÇERLİ 100 FREESPİN KOD ETKİNLİĞİ SİZİ BEKLİYOR.",
+        "description": "<b>GORA KANALINA ÖZEL SUGAR RUSH 1000 OYUNUNDA GEÇERLİ 100 FREESPİN KOD ETKİNLİĞİ SİZİ BEKLİYOR.</b><div><br></div><div>Freespinler Sugar Rush 1000 oyununda geçerlidir, belirlenen oyun dışında farklı alanlarda elde edilecek kazançlar geçersiz sayılacaktır.</div><div><br></div><div>Freespin jeton değeri 2₺'dir.</div><div><br></div><div>Eklenen freespin ile minimum maksimum 1000₺ arasında çekim sağlanabilir.</div><div><br></div><div>Elde edilen kazanç ile SLOT oyunlarına katılım sağlanabilir.</div><div><br></div><div>Alınan freespinlerin geçerlilik süresi 1 gündür. 1 gün içerisinde kullanılmayan freespinler sistem tarafından otomatik olarak devre dışı bırakılacaktır.</div><div><br></div><div>Eklemeler 12 saat içerisinde tamamlanacaktır.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-28",
+        "image": "https://409gorabet.com/cdn/gorabet/upload_files/gora-hergunfs-promo.jpg"
+      }
+    ],
     "order": 3,
     "image": "",
     "color": "",
