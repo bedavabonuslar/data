@@ -497,8 +497,8 @@
     "bonuses": [],
     "order": 6,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-teal-500 to-cyan-600",
+    "icon": "fas fa-road"
   },
   "pera": {
     "name": "Pera",
