@@ -25,5 +25,14 @@
     "bonuses": [],
     "order": 2,
     "image": ""
+  },
+  "gora": {
+    "name": "Gora",
+    "description": "Yüksek oranlı bahis sitesi",
+    "url": "https://richwinsoap.com/index.php?site=gora",
+    "status": "active",
+    "bonuses": [],
+    "order": 3,
+    "image": ""
   }
 }
