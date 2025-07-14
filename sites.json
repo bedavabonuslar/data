@@ -167,8 +167,8 @@
     ],
     "order": 1,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-blue-500 to-indigo-600",
+    "icon": "fas fa-dice"
   },
   "lidya": {
     "name": "Lidya",
