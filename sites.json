@@ -475,8 +475,8 @@
     "bonuses": [],
     "order": 4,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-yellow-500 to-orange-600",
+    "icon": "fas fa-trophy"
   },
   "nero": {
     "name": "Nero",
