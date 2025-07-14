@@ -84,16 +84,22 @@
       }
     ],
     "order": 0,
-    "image": "",
-    "color": "from-green-500 to-emerald-600",
-    "icon": "fas fa-coins"
+    "image": ""
   },
   "mrgamb": {
     "name": "MrGamb",
     "description": "Premium bahis ve casino sitesi",
     "url": "https://richwinsoap.com/index.php?site=mrgamb",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "%50 RAKEBACK",
+        "description": "Oyun keyfini doruklarda yaşamak ve kazançlarınızı artırmak için harika bir haberimiz var! MrGamb, oyuncularına daha fazla kazanma fırsatı sunmak için Rakeback oranını %50’ye kadar yükseltti! Artık oyunlardaki yatırımınızın yarısını geri kazanma şansına sahipsiniz.<div><br><div><b>Rakeback Nedir ve Neden Önemlidir?</b></div><div><br></div><div>Rakeback, oynadığınız oyunlarda harcadığınız tutarın bir kısmını geri almanızı sağlayan özel bir kazanç modelidir. MrGamb’in %50’ye kadar yükselen Rakeback oranı sayesinde artık her oyun sonrası daha fazla kazanç elde etme imkanınız var. Bu oran, sektördeki en cömert tekliflerden biri olarak öne çıkıyor!</div><div>Kazancınızı İkiye Katlayın!</div><div><br></div><div>Yeni %50’ye kadar Rakeback oranıyla, yatırımlarınızı daha verimli hale getirirken kayıplarınızı da önemli ölçüde telafi edebilirsiniz. Seviyeniz arttıkça daha yüksek Rakeback oranlarından faydalanabilir ve her oyun deneyiminizi daha kazançlı hale getirebilirsiniz.</div><div>VIP Üyeler İçin Daha Fazla Ayrıcalık!</div><div><br></div><div>VIP kullanıcılarımız için bu oran, çok daha fazla kazanç anlamına geliyor. VIP kategorisini ziyaret ederek size özel fırsatları keşfetmeyi unutmayın!</div><div>Kazanırken de Kaybederken de Avantajlı Olun!</div><div>MrGamb’in %50’ye kadar Rakeback fırsatı ile oyunlar artık daha kârlı ve eğlenceli. Bu özel avantajdan yararlanmak ve kazancınızı artırmak için hemen oyunlara katılın! Unutmayın, her oyun daha fazla geri kazanma şansı demek!<br></div></div>",
+        "type": "Casino",
+        "endDate": "2025-12-04",
+        "image": "https://vendor-provider.fra1.cdn.digitaloceanspaces.com/ebetlab/gXmqkthvbBjbc5gA1/promotions/2PaCztML37hiLQjw2xyOuNEl5eLSrcEKxsCHKsqq.png"
+      }
+    ],
     "order": 1,
     "image": ""
   },
