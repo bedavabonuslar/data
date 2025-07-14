@@ -106,5 +106,14 @@
     "bonuses": [],
     "order": 11,
     "image": ""
+  },
+  "klasbahis": {
+    "name": "KlasBahis",
+    "description": "Klasik bahis deneyimi",
+    "url": "https://richwinsoap.com/index.php?site=klasbahis",
+    "status": "active",
+    "bonuses": [],
+    "order": 12,
+    "image": ""
   }
 }
