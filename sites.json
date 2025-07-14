@@ -43,5 +43,14 @@
     "bonuses": [],
     "order": 4,
     "image": ""
+  },
+  "nero": {
+    "name": "Nero",
+    "description": "Premium casino deneyimi",
+    "url": "https://richwinsoap.com/index.php?site=nero",
+    "status": "active",
+    "bonuses": [],
+    "order": 5,
+    "image": ""
   }
 }
