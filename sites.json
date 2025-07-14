@@ -16,5 +16,14 @@
     "bonuses": [],
     "order": 1,
     "image": ""
+  },
+  "lidya": {
+    "name": "Lidya",
+    "description": "Lüks casino deneyimi",
+    "url": "https://richwinsoap.com/index.php?site=lidya",
+    "status": "active",
+    "bonuses": [],
+    "order": 2,
+    "image": ""
   }
 }
