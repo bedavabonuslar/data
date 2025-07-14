@@ -596,8 +596,8 @@
     "bonuses": [],
     "order": 15,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-yellow-500 to-amber-600",
+    "icon": "fas fa-city"
   },
   "ngs": {
     "name": "NGS",
