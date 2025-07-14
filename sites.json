@@ -79,5 +79,14 @@
     "bonuses": [],
     "order": 8,
     "image": ""
+  },
+  "mrbahis": {
+    "name": "MrBahis",
+    "description": "Güvenilir bahis platformu",
+    "url": "https://richwinsoap.com/index.php?site=mrbahis",
+    "status": "active",
+    "bonuses": [],
+    "order": 9,
+    "image": ""
   }
 }
