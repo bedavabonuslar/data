@@ -177,8 +177,8 @@
     "bonuses": [],
     "order": 7,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-indigo-500 to-purple-600",
+    "icon": "fas fa-diamond"
   },
   "makro": {
     "name": "Makro",
