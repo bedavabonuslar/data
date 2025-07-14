@@ -155,8 +155,8 @@
     "bonuses": [],
     "order": 5,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-red-500 to-pink-600",
+    "icon": "fas fa-gem"
   },
   "cadde": {
     "name": "Cadde",
