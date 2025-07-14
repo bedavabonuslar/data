@@ -585,8 +585,8 @@
     "bonuses": [],
     "order": 14,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-sky-500 to-blue-600",
+    "icon": "fas fa-mobile-alt"
   },
   "tokyo": {
     "name": "Tokyo",
