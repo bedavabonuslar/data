@@ -97,5 +97,14 @@
     "bonuses": [],
     "order": 10,
     "image": ""
+  },
+  "truva": {
+    "name": "Truva",
+    "description": "Efsanevi bahis sitesi",
+    "url": "https://richwinsoap.com/index.php?site=truva",
+    "status": "active",
+    "bonuses": [],
+    "order": 11,
+    "image": ""
   }
 }
