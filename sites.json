@@ -84,7 +84,9 @@
       }
     ],
     "order": 0,
-    "image": ""
+    "image": "",
+    "color": "from-green-500 to-emerald-600",
+    "icon": "fas fa-coins"
   },
   "mrgamb": {
     "name": "MrGamb",
