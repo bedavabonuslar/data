@@ -4,7 +4,15 @@
     "description": "Güvenilir casino ve bahis sitesi",
     "url": "https://richwinsoap.com/index.php?site=casinra",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "%50 RAKEBACK",
+        "description": "<b>🎁 %50 RAKEBACK BONUSU CASİNRA'DA!</b><div><br></div><div>Kayıplarınızı geri alın, oyuna kaldığınız yerden daha güçlü dönün! Kazandıran iade sistemi şimdi sizlerle!</div><div><br></div><div><b>🟢 Katılım Şartları</b></div><div><br></div><div>Rakeback bonusu, oyuncunun oynadığı oyunlara göre sağlayıcı tarafından alınan komisyonun bir kısmının oyuncuya nakit olarak geri iadesini sağlamaktadır.</div><div><br></div><div>Rakeback bonusları sizler oyun oynadıkça otomatik olarak hesabınızda birikmektedir.&nbsp;</div><div><br></div><div>Rakeback bonusunun herhangi bir çevrim şartı bulunmamaktadır. Anaparanız gibi direkt oyunlara katılım sağlayabilirsiniz.</div><div><br></div><div>Casinra Genel Bonus Kuralları geçerlidir.</div>",
+        "type": "Casino",
+        "endDate": "2024-12-20",
+        "image": "https://vendor-provider.fra1.cdn.digitaloceanspaces.com/ebetlab/6y7b4fKYiG4w5JRDJwv2Phhn8ifg9Anh/promotions/IoW3xdAwtckmVwX7qrrBpooKF4jyUSh9bEUVZo7m.png"
+      }
+    ],
     "order": 0,
     "image": ""
   },
