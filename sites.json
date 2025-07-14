@@ -52,5 +52,14 @@
     "bonuses": [],
     "order": 5,
     "image": ""
+  },
+  "cadde": {
+    "name": "Cadde",
+    "description": "Modern bahis platformu",
+    "url": "https://richwinsoap.com/index.php?site=cadde",
+    "status": "active",
+    "bonuses": [],
+    "order": 6,
+    "image": ""
   }
 }
