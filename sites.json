@@ -232,8 +232,8 @@
     "bonuses": [],
     "order": 12,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-emerald-500 to-teal-600",
+    "icon": "fas fa-star"
   },
   "pokerklas": {
     "name": "PokerKlas",
