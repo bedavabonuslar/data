@@ -61,5 +61,14 @@
     "bonuses": [],
     "order": 6,
     "image": ""
+  },
+  "pera": {
+    "name": "Pera",
+    "description": "Elit casino sitesi",
+    "url": "https://richwinsoap.com/index.php?site=pera",
+    "status": "active",
+    "bonuses": [],
+    "order": 7,
+    "image": ""
   }
 }
