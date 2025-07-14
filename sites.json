@@ -1,1 +1,11 @@
-{}
+{
+  "casinra": {
+    "name": "Casinra",
+    "description": "Güvenilir casino ve bahis sitesi",
+    "url": "https://richwinsoap.com/index.php?site=casinra",
+    "status": "active",
+    "bonuses": [],
+    "order": 0,
+    "image": ""
+  }
+}
