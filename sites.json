@@ -607,7 +607,7 @@
     "bonuses": [],
     "order": 16,
     "image": "",
-    "color": "from-lime-500 to-green-600",
+    "color": "from-yellow-500 to-orange-600",
     "icon": "fas fa-leaf"
   }
 }
