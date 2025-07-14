@@ -115,7 +115,15 @@
     "description": "Lüks casino deneyimi",
     "url": "https://richwinsoap.com/index.php?site=lidya",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "LİMİTSİZ ÇEKİM LİDYABET'TE!",
+        "description": "<b>Çekim Limitleri</b><div><br></div><div>Günlük maksimum 10.000.000 TL çekim yapılabilir.</div><div><br></div><div><b>Ek Kurallar ve Limitler</b></div><div><br></div><div>Yatırımınız 20.000₺ ve altında ise, ana paranızla birlikte maksimum 200.000₺ çekebilirsiniz.</div><div><br></div><div>Yatırımınız 20.001₺ ve üzerindeyse, yatırımınızın 30 katına kadar çekim yapabilirsiniz.</div><div><br></div><div>Limitler, son yatırım tutarınıza göre belirlenir.</div><div><br></div><div><b>Çekim Hakları ve Süreçler</b></div><div><br></div><div>Her kullanıcı, 2 saatte bir çekim yapabilir.</div><div><br></div><div>Bir çekimden sonra yeni çekim için 2 saat beklemek gerekir.</div><div><br></div><div>Tek seferde çekilebilecek maksimum tutar 100.000₺’dir.</div><div><br></div><div>Daha fazla para çekmek isteyenler, 2 saat arayla 100.000₺ sınırına göre  çekim yapmalıdır.</div><div><br></div><div>Kripto para çekimlerinde günlük maksimum 2 işlem hakkı vardır.</div><div><br></div><div>VIP kullanıcıların çekim limitleri artırılabilir.</div><div><br></div><div><b>Kural İhlalleri ve Yaptırımlar</b></div><div><br></div><div>Kural dışı veya hileli işlemler tespit edilen hesaplar, Lidyabet tarafından önceden uyarı yapılmadan kapatılır ve bakiyeleri bloke edilir.</div><div><br></div><div><b>Genel Kurallar</b></div><div><br></div><div>Genel bonus şartları geçerlidir.</div><div><br></div><div>Bu promosyon 05.07.2025 tarihinden itibaren geçerlidir.</div>",
+        "type": "Casino",
+        "endDate": "2025-07-05",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn57/uploads/683d8e695935c484e13f825152decbb05a16c8e9b06db.webp"
+      }
+    ],
     "order": 2,
     "image": ""
   },
