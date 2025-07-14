@@ -88,5 +88,14 @@
     "bonuses": [],
     "order": 9,
     "image": ""
+  },
+  "venus": {
+    "name": "Venus",
+    "description": "Şık casino deneyimi",
+    "url": "https://richwinsoap.com/index.php?site=venus",
+    "status": "active",
+    "bonuses": [],
+    "order": 10,
+    "image": ""
   }
 }
