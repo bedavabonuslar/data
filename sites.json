@@ -124,5 +124,14 @@
     "bonuses": [],
     "order": 13,
     "image": ""
+  },
+  "monobahis": {
+    "name": "MonoBahis",
+    "description": "Mobil uyumlu bahis sitesi",
+    "url": "https://richwinsoap.com/index.php?site=monobahis",
+    "status": "active",
+    "bonuses": [],
+    "order": 14,
+    "image": ""
   }
 }
