@@ -343,6 +343,13 @@
     "status": "active",
     "bonuses": [
       {
+        "title": "Her Yatırımınıza Ek Freespin Fırsatı",
+        "description": "<b>Her Yatırımınıza Ek Freespin Fırsatı</b><div><br></div><div>1-) Bu promosyondan yararlanabilmek için, tek seferde 500 TL ve üzeri yatırım yapılması gerekmektedir.</div><div>2-) Yatırımınız başarıyla tamamlandıktan sonra, kullanmadan önce Canlı Destek hattımıza bağlanarak freespinlerinizi talep edebilirsiniz.</div><div>3-) Eklenen freespinler Gates of Olympus, Sweet Bonanza, Starlight Princess, Sugar Rush oyunlarında geçerlidir.</div><div>4-) Eklenen freespinlerin Jeton Değeri 5₺'dir.</div><div>5-) Yatırımınıza Göre Freespin Miktarları:</div><div>500 TL – 999 TL yatırımlara 15 Freespin</div><div>1000 TL – 1999 TL yatırımlara 30 Freespin</div><div>2000 TL – 2999 TL yatırımlara 50 Freespin</div><div>3000 TL – 4999 TL yatırımlara 75 Freespin</div><div>5000 TL ve üzeri yatırımlara 100 Freespin</div><div>6-) Bu promosyondan gün içinde en fazla 100 Freespin kazanabilirsiniz.</div><div>7-) Freespinler yalnızca tek seferde yapılan yatırımlar üzerinden hesaplanır. Gün içinde 300+300+400 TL şeklindeki parçalı yatırımlarda freespin hakkı tanımlanmaz.&nbsp;</div><div>8-) 500 TL ve üzeri tek yatırım yaparak promosyondan faydalanabilirsiniz.</div><div>9-) Çevrim şartı: Ana paranızın 1 katı + Freespin kazancınızın 3 katı kadar freespin eklemesi yapılan oyunlarda çevrim yapmanız yeterlidir.</div><div>10-) Çevriminiz tamamlandıktan sonra dilediğiniz alanda bahis alımı yapabilirsiniz.</div><div>11-) Bu promosyondan yararlanmanız halinde, yalnızca kayıp bonusu alma hakkınız devam eder</div><div>12-) Gün içinde çekim yapan üyeler de bu promosyondan faydalanabilir.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-08",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn45/uploads/68613ab1270c0952530f76217f7ae59da25a1e856e973.jpeg"
+      },
+      {
         "title": "iLK YATIRIMA ÖZEL 250 FREESPIN",
         "description": "1-) Promosyondan sadece ilk yatırımınızın 1000₺ ve üzeri miktarda olması durumunda yararlanabilirsiniz.&nbsp;<div><br></div><div>2-) Hesabınıza tanımlanan 250 Freespinin kullanım süresi 3 gündür. Bu süre sonunda kullanılmayan freespinler hesabınızdan otomatik olarak silinir ve tekrar eklenmezler.</div><div><br></div><div>3-) Hesabınıza eklenen freespinler, Pragmatic Play - Sweet Bonanza 1000 oyununda geçerlidir ve spin değeri 2₺'dir.</div><div><br></div><div>4-) Yatırımınızı yaptıktan sonra bakiyenizi kullanmadan Bonus Talep sayfamızdan İlk Yatırıma Özel Freespin hakkınızı talep edebilirsiniz. Yatırım yapılan miktar kullanıldıktan sonra iletilen talepleriniz dikkate alınmayacaktır.</div><div><br></div><div>5-) Freespin üzerinden elde edilen kazanç ile çekim yapabilmeniz için anapara miktarınızın 1 katını, freespinlerinizden elde ettiğiniz kazanç miktarının ise 2 katını slot alanında çevirmeniz gerekmektedir.</div><div><br></div><div>6-) Eklenen freespinler ile kazanç sınırı bulunmaz. Freespinden faydalanan üyelerimiz sadece kayıp bonusundan yararlanabilir.</div>",
         "type": "Casino",
@@ -403,7 +410,7 @@
         "description": "<b>GORA KANALINA ÖZEL SUGAR RUSH 1000 OYUNUNDA GEÇERLİ 100 FREESPİN KOD ETKİNLİĞİ SİZİ BEKLİYOR.</b><div><br></div><div>Freespinler Sugar Rush 1000 oyununda geçerlidir, belirlenen oyun dışında farklı alanlarda elde edilecek kazançlar geçersiz sayılacaktır.</div><div><br></div><div>Freespin jeton değeri 2₺'dir.</div><div><br></div><div>Eklenen freespin ile minimum maksimum 1000₺ arasında çekim sağlanabilir.</div><div><br></div><div>Elde edilen kazanç ile SLOT oyunlarına katılım sağlanabilir.</div><div><br></div><div>Alınan freespinlerin geçerlilik süresi 1 gündür. 1 gün içerisinde kullanılmayan freespinler sistem tarafından otomatik olarak devre dışı bırakılacaktır.</div><div><br></div><div>Eklemeler 12 saat içerisinde tamamlanacaktır.</div>",
         "type": "Casino",
         "endDate": "2025-12-28",
-        "image": "https://cdn.pfmediaserv.com/merchants/pn45/uploads/686d80252de46907afc3c938c45f0211c8c825e5ea9ba.jpeg"
+        "image": ""
       }
     ],
     "order": 3,
