@@ -552,8 +552,8 @@
     "bonuses": [],
     "order": 11,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-orange-500 to-red-600",
+    "icon": "fas fa-horse"
   },
   "klasbahis": {
     "name": "KlasBahis",
