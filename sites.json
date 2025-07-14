@@ -210,8 +210,8 @@
     "bonuses": [],
     "order": 10,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-pink-500 to-rose-600",
+    "icon": "fas fa-venus"
   },
   "truva": {
     "name": "Truva",
