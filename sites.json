@@ -519,8 +519,8 @@
     "bonuses": [],
     "order": 8,
     "image": "",
-    "color": "",
-    "icon": ""
+    "color": "from-blue-500 to-cyan-600",
+    "icon": "fas fa-chart-line"
   },
   "mrbahis": {
     "name": "MrBahis",
