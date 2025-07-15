@@ -472,7 +472,15 @@
     "description": "Güvenilir bahis platformu",
     "url": "https://richwinsoap.com/index.php?site=bahisbudur",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "%5 HAFTALIK KAYIP BONUSU",
+        "description": "<b>%5 HAFTALIK KAYIP BONUSU</b><div><br></div><div>1- Bu promosyondan faydalanabilmeniz için en az 1.000 TL’lik net kaybınızın olması gerekmektedir.</div><div><br></div><div>2- Promosyondan faydalanabilmek için haftanın en az 2 günü yatırım yapmış olmanız gerekmektedir.</div><div><br></div><div>3- Promosyon kapsamında hafta boyu minimum 1.000 TL haftalık genel kaybı olan üyeler, bu kayıplarının %5’i kadar bonus alabilecekler.</div><div><br></div><div>4- Haftalık Kayıp Bonusunda alınabilecek maximum bonus miktarı 10.000 TL’dir. Yatırımlarınız üzerinden aldığınız bonuslar Haftalık Bonus almanıza engel değildir.</div><div><br></div><div>5- Haftalık Kayıp Bonus talebinde bulunabilmeniz için bakiyeniz 5 TL'den az olmalıdır ve açıkta bahisinizin bulunmaması gerekmektedir.</div><div><br></div><div>6- Bonus talebinizi Pazar günü 23:59 ile Pazartesi günü 23:59 arasında verebilirsiniz. Belirtilen zaman içerisinde talep edilmeyen, bonus talepleri dikkate alınmayacaktır.</div><div><br></div><div>7- Bonusunuzu ‘’Bonus Hareketlerim’’ bölümünden talep edebilirsiniz.</div><div><br></div><div>8- Bonusunuz eklendikten sonra istediğiniz alanda kullanabilirsiniz. Bonusun herhangi bir çevirme şartı yoktur, dilerseniz çekebilirsiniz.</div><div><br></div><div>9- Almış olduğunuz bonusun 30 katı kadar kazanç sağlayabilirsiniz.</div><div><br></div><div>10- Tüm bonuslarda Bonus Genel Şartları geçerlidir.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-28",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn56/uploads/675705f5e776b7efaa0287710018818be488621858872.jpeg"
+      }
+    ],
     "order": 4,
     "image": "",
     "color": "from-yellow-500 to-orange-600",
