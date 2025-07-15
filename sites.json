@@ -760,7 +760,15 @@
     "description": "Elit casino sitesi",
     "url": "https://richwinsoap.com/index.php?site=pera",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "Spin Gifts Promosyonu",
+        "description": "<b>Casino Turnuvası</b><div><b><br></b><div>Netent, Big Time Gaming, No limit City, Red Tiger Spin Gifts Promosyonu</div><div>Katılım Sağlayan Oyunlar Listesi:</div><div><br></div><div>Müzik Festivali : 9 Mayıs 2025 – 19 Mayıs 2025<br></div><div>&nbsp;</div><div><br></div><div><b>&nbsp;Promosyon Mekaniği: &nbsp;</b><br></div><div><b><br></b></div><div>&nbsp; Hediye Çarkı’nda 1, 2, 5, 10, 25, 50, 75 ve 100 çevirme tutarlarıyla dönme şansı.</div><div><br></div><div>&nbsp; Hediye Çevirme, yukarıda listelenen oyunlar ve belirtilen tarihler boyunca rastgele tetiklenecektir.</div><div><br></div><div>&nbsp; Katılım için herhangi bir minimum bahis şartı yoktur.</div><div><br></div><div>&nbsp; Promosyonda belirli bir ödül&nbsp; havuzu olmayıp, oyunculara verilen rasgele freespinlerin kazancları oyuncu hesabına eklenecektir.</div><div><br></div><div>&nbsp; Oyuncu kuponları, tetiklendiği andan itibaren 3 gün içinde sona erecektir.</div><div><br></div><div>&nbsp; Spin&nbsp;Gifts&nbsp;değerleri, oyuncunun son bahsine bağlı olarak belirlenecektir.</div><div><br></div><div>&nbsp; Spin&nbsp;Gift kazançları tamamen Evolution tarafından finanse edilmektedir.</div><div><br></div><div>&nbsp; Makul doğrulama süreçleri talep etmek (ör. yaş ve coğrafi konum doğrulama),</div><div><br></div><div>&nbsp; Kampanya kapsamında oyuncu başına maksimum kazanç tutarını 10.000 EUR ile sınırlandırmak,</div><div><br></div><div>&nbsp; Yeni oyunları araca dahil etmek.</div></div>",
+        "type": "Turnuva",
+        "endDate": "2025-05-19",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn10/uploads/67e6c0162d12a2f0fde54ef7b7d2eb8dd11fddcb95779.jpeg"
+      }
+    ],
     "order": 7,
     "image": "",
     "color": "from-indigo-500 to-purple-600",
