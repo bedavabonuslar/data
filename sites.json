@@ -762,6 +762,13 @@
     "status": "active",
     "bonuses": [
       {
+        "title": "NAKIT PARA KAZAN!",
+        "description": "1 - Bu promosyon 20.03.2023 tarihi itibariyle yapılan Para çekme işlemleri için geçerlidir.<div><br></div><div>2 - Promosyondan faydalanabilmek için, para çekme işlemi tamamlandıktan sonra, Para çekme sayfasındaki Finans geçmişim bölümüne giriş yapılarak ve tam sayfa olacak şekilde ekran görüntüsünü;</div><div><br></div><div>&nbsp;A - Instagram hesabınızda #perabet yazarak veya;</div><div><br></div><div>&nbsp;B - Twitter hesabınızda perabetsosyal hesabını etiketleyerek</div><div><br></div><div>paylaşmanız gerekmektedir. (Yalnızca bir sosyal medya hesabı değerlendirmeye alınacaktır)</div><div><br></div><div>3 - Paylaşım yapıldıktan sonra en geç beş (5) gün içerisinde Perabet canlı yardım hattına bağlanarak sosyal medya adresinizi ileterek yaptığınız çekim miktarı kadar NAKİT PARA talep edebilirsiniz. 24 saat içerisinde kontroller sağlanarak hesabınıza ekleme sağlanacaktır.</div><div><br></div><div>4 - Her bir beğeni 1₺ karşılık olacak şekilde çekim yapılan tutar kadar ekleme sağlanacaktır. ( Örneğin 1.000₺ Para çekme işlemi yapıldığında, sosyal medya hesabınızda 1.000 adet beğeni aldığınızda, hesabınıza 1.000₺ eklenecektir.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-14",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn10/uploads/68721a261cad9cba6514ffc6850a689ad9451503b557f.jpeg"
+      },
+      {
         "title": "SPINOMENAL SPİNOLEAGUE 2025 TURNUVA SERİSİ",
         "description": "<b>SPINOMENAL SPİNOLEAGUE 2025 TURNUVA SERİSİ</b><div>&nbsp;</div><div><b>Casino Turnuvası</b></div><div><b>&nbsp;</b></div><div><b>TOPLAM ÖDÜL: </b>12.000.000€</div><div>&nbsp;</div><div><b>TARİHLER: </b>27.02.2025-04.03.2026</div><div>&nbsp;</div><div>Turnuva serisi 8 ana etaptan oluşmaktadır. Detaylar aşağıdaki gibidir.</div><div>&nbsp;</div><div><br></div><div><b>KATILACAK OYUNLAR:</b></div><div>&nbsp;</div><div>1 Reel oyunları haric  tüm slot oyunları turnuvaya dahildir.</div><div>&nbsp;</div><div><b>SKOR TOPLAMA MEKANİZMASI:</b></div><div>&nbsp;</div><div>Her kazanç, oyuncuya şu formüle göre belirli miktarda puan verir: Kazanılan tutar / bahis oynanan tutar ( örneğin, eğer 1 EUR bahis oynar ve 10 EUR kazanırsanız 10 puan alırsınız).</div>",
         "type": "Turnuva",
