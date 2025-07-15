@@ -605,6 +605,20 @@
     "status": "active",
     "bonuses": [
       {
+        "title": "Yeni Bonus",
+        "description": "Bonus açıklaması",
+        "type": "Casino",
+        "endDate": "2025-08-14",
+        "image": ""
+      },
+      {
+        "title": "YENİ ÜYELERE HOŞ GELDİN FREE SPIN",
+        "description": "<b>YENİ ÜYELERE HOŞ GELDİN FREE SPIN</b><div><br></div><div>1- Bu promosyondan Türkiye IP’si ile kayıt olan tüm üyeler yararlanabilir.</div><div><br></div><div>2-Promosyon yeni üyeler için geçerlidir.</div><div><br></div><div>3-Freespin’ler ‘’ ’Pragmatic Play’’ sağlayıcısına ait ''Sweet Bonanza 1000\" oyununda geçerlidir.</div><div><br></div><div>4-Promosyon 01.02.2025 tarihinden itibaren kayıt olan tüm yeni üyeler için geçerlidir.</div><div><br></div><div>5-Her üye bu promosyondan bir kez faydalanabilir.</div><div><br></div><div>6-Promosyon kapsamında hesabınıza 1 ₺ değerinde 50 freespin eklenecektir.</div><div><br></div><div>7-Freespin kazancınızın 3 katı kadar çevrim yaptıktan sonra,  minimum 1.000 TL yatırım yapıp, yatırım miktarının 3 katı kadar çevriminizi tamamladıktan sonra maksimum 5.000 TL çekim yapabilirsiniz.</div><div><br></div><div>8-Eklenen freespin ile maksimum 5.000 ₺ çekim yapabilirsiniz.</div><div><br></div><div>9-Eklenen freespin geçerlilik süresi 3 (üç) gündür.</div><div><br></div><div>10-Döviz hesabı kullanan üyeler bu promosyondan faydalanamaz.</div><div><br></div><div>11-Tüm bonuslarda Bonus Genel Şartları geçerlidir.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-14",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn32/uploads/67e69b0971deb9121e53bcf680781bb3a633eaa461bdd.jpeg"
+      },
+      {
         "title": "%20 CANLI CASİNO DİSCOUNT",
         "description": "<b>%20 CANLI CASİNO DİSCOUN</b><div><b><br></b><div>1\tBu promosyondan faydalanabilmeniz için en az 20 TL lik net kaybınızın olması gerekir.</div><div><br><div><div>&nbsp;2\tDiscountunuzu Canlı Casino bölümünlerindeki net kayıplarınız için anlık olarak talep edebilirsiniz. 24 Saat içerisinde talep edilmeyen discountlar için yapılan talepler dikkate alınmaz.</div><div><br></div><div>&nbsp;3\tDiscount talebinde bulunabilmeniz için bakiyenizin sıfır olması, açık bahisinizin ve bekleyen çekim talebinizin olmaması gerekir.</div><div><br></div><div>&nbsp;4\tBaccarat, Dragon/Tiger ve SicBo oyunlarına ve 1'e 2-3 oranındaki kayıplarınıza kayıp bonusu verilmez.</div><div><br></div><div>&nbsp;5\tDiscount hesaplaması, 24 saatlik periyot içerisindeki (çekim işleminden sonraki 24 saat) toplam yatırım ve çekim işlemleri dikkate alınarak gerçekleştirilir. Bu süre zarfında oluşan net zarar tutarı esas alınır. Belirtilen süreç içerisinde kar durumunda olan üyeler, discount bonusundan faydalanamaz.</div><div><br></div><div>&nbsp;6\tGünlük 20 - 99.999 TL'ye kadar olan kayıplarınıza %10, 100.000 - 499.999 TL arası kayıplarınıza %15, 500.000 TL ve üzeri kayıplarınıza %20 Canlı Casino Discount alabilirsiniz.</div><div><br></div><div>&nbsp;7\tDiscountunuzu Bonus Hareketlerim bölümünden talep edebilirsiniz.</div><div><br></div><div>&nbsp;8\tDiscountunuz eklendikten sonra istediğiniz alanda kullanabilirsiniz.&nbsp;</div><div>Discountun herhangi bir çevirme şartı yoktur, dilerseniz çekebilirsiniz.</div><div><br></div><div>&nbsp;9\tTüm bonuslarda Bonus Genel Şartları geçerlidir.</div></div></div></div>",
         "type": "Casino",
