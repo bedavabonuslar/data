@@ -762,6 +762,13 @@
     "status": "active",
     "bonuses": [
       {
+        "title": "PERABET VIP Her Cuma Nakit Para!",
+        "description": "<b>PERABET VIP Her Cuma Nakit Para!</b><div>Dilediğiniz alanda değerlendirebileceğiniz tamamıyla çevrimsiz NAKİT PARA anlamına gelmektedir. (Cuma günü hesabınıza eklenmiş olacaktır.)</div><div><br></div><div>Silver - 20₺</div><div><br></div><div>Gold - 50₺</div><div><br></div><div>Platin - 100₺</div><div><br></div><div>Diamond - 250₺</div><div><br></div><div>VIP statüsünü kazanarak bir çok özelliklerden faydalanabilirsiniz.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-25",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn10/uploads/684d473ab7483cf02075d939652d0787bf95d2c52af2e.jpeg"
+      },
+      {
         "title": "DOGUM GŨNỮ BONUSU",
         "description": "Yeni yaşınızın sağlık, mutluluk, huzur ve kazanç getirmesini diler, mutlu yıllar dileriz. Nice senelere!<div><br></div><div>Bu promosyondan faydalanabilmeniz için son 10 gün içerisinde hesabınıza en az 1 adet minimum 100₺ yatırım yapmış olmanız gerekmektedir.</div><div><br></div><div><br></div><div>Doğum günü bonusu miktarı, son 4 ay içerisinde yaptığınız toplam yatırım tutarına göre belirlenmektedir.</div><div><br></div><div><br></div><div>250 - 1.000₺ arası yatırımı olan üyelerimize 50₺</div><div>1.001 - 10.000₺ yatırımı olan üyelerimize 100₺</div><div>10.001 - 50.000₺ yatırımı olan üyelerimize 250₺</div><div>50.001 - 200.000₺ yatırımı olan üyelerimize 500₺</div><div>200.001₺  ve üzerinde yatırımı olan üyelerimize 1.000₺&nbsp;</div>",
         "type": "Casino",
