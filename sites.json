@@ -603,7 +603,15 @@
     "description": "Premium casino deneyimi",
     "url": "https://richwinsoap.com/index.php?site=nero",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "TEK MAÇTAN KAYBETMEYE SON!",
+        "description": "<div><b>NEROBET-CASHOUT</b></div><div><b><br></b><div>Cashout sistemi; Futbol'da 3 İhtimalli, Beraberlikte İade, İki Takımda Gol Atar, Handikap, Toplam Gol, İlk Yarı Toplam Gol, Ev Sahibi Toplam Gol , Deplasman Toplam Gol.</div></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Basketbol : Kazanan (Uzatmalar Dahil), 2 İhtimalli,</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3 İhtimalli, Toplam Sayı, Handikap (Uzatmalar Dahil).</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tenis: Maçın Kazananı, Toplam Oyun, Oyun Handikap.</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Voleybol: Maçın Kazananı, Toplam Oyun Sayısı, Sayı Handikap.&nbsp;</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Hentbol: 3 ihtimalli, Toplam, Handikap</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Buz Hokey<b>i</b>: Kazanan (Uzatmalar ve Panaltılar Dahil), Toplam Gol,</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Handikap bahis seçeneklerinde geçerlidir.</div><div><br></div><div>Bonus ve freebet'ten kullanılan bahisler bozdurulamaz.</div><div>Kupondaki herhangi bir bahis oynanıyorken askıya alındığında veya durduğunda bahis bozdurmaya izin verilmez.</div><div>“Miktar değişikliğini kabul ediyorum” ve ''Oran değişikliğini kabul ediyorum'' seçeneği işaretlenmediği takdirde, bahis bozdura başvurduğunuz zaman ile bahis bozdurun işleneceği zamanki miktarlar uyuşmuyor ise; bahis bozdurmaya izin verilmez. \"Miktar değişimlerini kabul ediyorum\" işaretlenir ise; o anki miktar ile bahis bozdurulur.</div><div>Kupondaki herhangi bir bahis marketinde bahis bozdurma aktif değil ise bahis bozdurmaya izin verilmez.</div><div>Kuponda kaybetmiş bir bahis var ise; bahis bozdurmaya izin verilmez.</div><div>Eklemiş olduğunuz karşılaşmada bahis bozdur seçeneği aktif ise, kuponunuzda da karşılaşmanın yanında bahis bozdur sembolü görebilirsiniz.</div><div>Bahis geçmişinizde bahis bozdurmaya olanaklı kuponlarınızı ve önerilen miktarı görebilirsiniz</div><div>Bahis Bozdur’ da görülen miktarın tamamını ya da belirli bir kısmını bozdurabilirsiniz.</div><div>Kısmi bozdurma için cashout sembolüne tıklanır ve aktif hale gelen kaydırma çubuğu ile bozdurulmak istenilen miktar seçilir. Örneğin 10TL lik yapılmış olan bir kuponun 5TL’lik kısmının devam etmesini istediniz, bunun için, kaydırma çubuğunu %50 ye kadar sürüklemek ve Bahis Bozdur butonuna tıklamak yeterlidir.</div>",
+        "type": "Spor",
+        "endDate": "2025-12-29",
+        "image": "https://cdn.pfmediaserv.com/merchants/pn32/uploads/6542655a88b76bb73cbaec6038421ed004ce8fb839cc7.jpeg"
+      }
+    ],
     "order": 5,
     "image": "",
     "color": "from-red-500 to-pink-600",
