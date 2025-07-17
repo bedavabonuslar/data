@@ -1347,7 +1347,22 @@
     "description": "Efsanevi bahis sitesi",
     "url": "https://richwinsoap.com/index.php?site=truva",
     "status": "active",
-    "bonuses": [],
+    "bonuses": [
+      {
+        "title": "Çekimini Paylaş , Bonusu Kap!",
+        "description": "Bonus açıklaması",
+        "type": "Casino",
+        "endDate": "2025-08-16",
+        "image": ""
+      },
+      {
+        "title": "Geceye Özel %30 Çevrimsiz SLOT Kayıp Bonusu",
+        "description": "Kazanma Koşulu: Geceye özel %30 Çevrimsiz Kayıp Bonusu 02:00 - 08:00 saatleri arasındaki yatırım ve bonus talepleriniz için geçerlidir.Son işlemi çekim işlemi olan üyeler kayıp bonusu alamayacaktır.Minimum 100₺ kayıp yaşamanız durumunda bu bonustan faydalanılabilir.<div><br></div><div>Kullanım Koşulu: Slot alanında ; Alınan bonus 1 kat çevrimin ardından çekilebilir veya farklı bir alana aktarılabilir hale gelir. Bonus başka promosyonlar ile BİRLEŞTİRİLEMEZ.</div><div><br></div><div>Nasıl Talep Edilir?: Bonus Talep sayfasından talebinizi gerçekleştirebilirsiniz.</div><div><br></div><div>Maksimum Kazanç: Geceye Özel %30 Çevrimsiz SLOT Kayıp Bonusu alan üyelerimiz maksimum bonus tutarının 50 KATI çekim işlemi gerçekleştirebilir.</div><div><br></div><div>- Truvabet herhangi bir promosyondaki kural ve şartları değiştirme ya da promosyonu tamamen kaldırma hakkını gizli tutar.</div><div>- Tüm Bonuslarda Truvabet’in Bonus Genel Şartları geçerlidir.</div>",
+        "type": "Casino",
+        "endDate": "2025-12-28",
+        "image": "https://mdn.zgmediaserv.com/merchants/pn13/uploads/67c99a30885ff07bfc36f31769a57cddc56870aa7655a.jpeghttps://mdn.zgmediaserv.com/merchants/pn13/uploads/67c99a30885ff07bfc36f31769a57cddc56870aa7655a.jpeg"
+      }
+    ],
     "order": 11,
     "image": "",
     "color": "from-orange-500 to-red-600",
